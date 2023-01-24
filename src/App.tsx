@@ -10,7 +10,7 @@ import { Routes, Route } from "react-router-dom";
 const Cart = React.lazy(()=>import('./components/pages/Cart'));
 const NotFound = React.lazy(()=>import('./components/pages/NotFound'));
 const FullPizza = React.lazy(()=>import('./components/pages/FullPizza'));
-
+//test
 function App() {
   return (
     <Routes>
